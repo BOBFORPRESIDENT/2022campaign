@@ -10,4 +10,5 @@ Hi this is the more comprehensive list of the changes Bob plans to make during h
 9. Free candy!
 10. Official minecraft server
 11. Better IT equipment if possible
-12. 
+12. More after school activities
+13. Less restrictions if reasonable
